@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarık</h1>
 <h3 align="center">Junior Developer</h3>
 
-- 🔭 I’m currently working on [Java Course](https://github.com/TarikSogukpinar/JavaCourseOOP)
+- 🔭 I’m currently working on [HRMSPROJECT](https://github.com/TarikSogukpinar/HrmsProject)
 
 - 🌱 I’m currently learning **Java,React**
 
