@@ -13,6 +13,8 @@
 
 - ✔ My Linkedin [Linkedin](https://www.linkedin.com/in/tar%C4%B1k-so%C4%9Fukp%C4%B1nar/)
 
+- 🎥 My Youtube Channel [Youtube](https://www.youtube.com/channel/UCV4hERzHneGAFI8BV2hyEiQ)
+
 
 
 <p></p>
