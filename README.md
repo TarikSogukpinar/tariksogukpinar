@@ -1,18 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tarık</h1>
-<h3 align="center">Junior Developer</h3>
-
-- 🔭 I’m currently working on [HRMSPROJECT](https://github.com/TarikSogukpinar/HrmsProject)
-
-- 🌱 I’m currently learning **Java,React**
-
-- 👨‍💻 All of my projects are available at [github.com/TarikSogukpinar](github.com/TarikSogukpinar)
-
-- 📫 How to reach me [My Personel Website](https://tariksogukpinar.vercel.app)
-
-- 💬 My Blog [Medium](https://tariksogukpinar.medium.com/)
-
-
-- 🎥 My Youtube Channel [Youtube](https://www.youtube.com/channel/UCV4hERzHneGAFI8BV2hyEiQ)
 
 
 
