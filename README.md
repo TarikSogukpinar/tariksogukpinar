@@ -23,9 +23,4 @@
   </a>
 </p>
 <p></p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=tariksogukpinar&show_icons=true&locale=en" alt="tariksogukpinar" />
-</p>
-<p></p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tariksogukpinar&show_icons=true&locale=en&layout=compact" alt="tariksogukpinar" />
-</p>
+
