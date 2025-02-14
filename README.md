@@ -1,54 +1,33 @@
-<h1 align="center">Hi 👋, I'm Tarık</h1>
+<div align="center">
+  <h1>Hi there, I'm Tarık 👋</h1>
+  
+  <p>
+    🌐 <a href="https://me.tariksogukpinar.dev" target="_blank" style="text-decoration: none; color: #58a6ff;">me.tariksogukpinar.dev</a>
+    <br/>
+    📧 <a href="mailto:contact@tariksogukpinar.dev" style="text-decoration: none; color: #58a6ff;">contact@tariksogukpinar.dev</a>
+  </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=expressjs" alt="express" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 2px;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=golang" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.elastic.co" target="_blank">
-    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/>
-  </a>
-  <a href="https://www.rabbitmq.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="40" height="40"/>
-  </a>
-</p>
+  <h3>🛠 Tech Stack</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,docker,javascript,typescript,golang,redis,elasticsearch,rabbitmq&perline=5" alt="tech stack" style="max-width: 100%; height: auto;" />
+  </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://github.com/TarikSogukpinar" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="github"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tarik-sogukpinar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/>
-  </a>
-  &nbsp;
-  <a href="mailto:contact@tariksogukpinar.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="email"/>
-  </a>
-  &nbsp;
-  <a href="https://tariksogukpinar.medium.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" alt="medium"/>
-  </a>
-</p>
+  <h3>🤝 Let's Connect</h3>
+  <p>
+    <a href="https://github.com/TarikSogukpinar" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" style="margin: 8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    </a>
+    <a href="https://www.linkedin.com/in/tarik-sogukpinar/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="linkedin" style="margin: 8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    </a>
+    <a href="mailto:contact@tariksogukpinar.dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="email" style="margin: 8px; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    </a>
+  </p>
+
+  <br/>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=tariksogukpinar&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </p>
+</div>
