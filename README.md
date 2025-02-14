@@ -2,9 +2,9 @@
   <h1>Hi there, I'm Tarık 👋</h1>
   
   <p>
-    🌐 <a href="https://me.tariksogukpinar.dev" target="_blank" style="text-decoration: none; color: #58a6ff;">me.tariksogukpinar.dev</a>
+    <a href="https://me.tariksogukpinar.dev" target="_blank" style="text-decoration: none; color: #58a6ff;">me.tariksogukpinar.dev</a>
     <br/>
-    📧 <a href="mailto:contact@tariksogukpinar.dev" style="text-decoration: none; color: #58a6ff;">contact@tariksogukpinar.dev</a>
+     <a href="mailto:contact@tariksogukpinar.dev" style="text-decoration: none; color: #58a6ff;">contact@tariksogukpinar.dev</a>
   </p>
 
   <h3>🛠 Tech Stack</h3>
