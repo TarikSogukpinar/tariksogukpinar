@@ -6,31 +6,31 @@
     <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://nestjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 2px;"/>
+    <img src="https://skillicons.dev/icons?i=expressjs" alt="express" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 2px;"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://golang.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=golang" alt="go" width="40" height="40"/>
   </a>
   <a href="https://redis.io" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
   </a>
   <a href="https://www.elastic.co" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=elastic" alt="elasticsearch" width="40" height="40"/>
   </a>
   <a href="https://www.rabbitmq.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitmq" width="40" height="40"/>
   </a>
 </p>
 
