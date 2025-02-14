@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarık</h1>
 <p></p>
-<h1 align="center">Hi 👋, I'm Tarık</h1>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
